@@ -77,7 +77,7 @@ Create a search index as below.
 
 ## Reference Architechture 
 
-![Ref. Arch (1)](https://github.com/utsavMongoDB/MongoDB-RAG-NextJS/assets/114057324/35caff96-0d7a-447c-95a7-b96910528b48)
+![image](https://github.com/mongodb-partners/MongoDB-RAG-Vercel/assets/114057324/3a4b863e-cea3-4d89-a6f5-24a4ee44cfd4)
 
 
 This architecture depicts a Retrieval-Augmented Generation (RAG) chatbot system built with LangChain, OpenAI, and MongoDB Atlas Vector Search. Let's break down its key players:
