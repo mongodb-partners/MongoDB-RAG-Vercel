@@ -52,6 +52,18 @@ Create a search index as below.
  ![image](https://github.com/utsavMongoDB/MongoDB-RAG-NextJS/assets/114057324/b41a09a8-9875-4e5d-9549-e62652389d33)
 
 - Next input the values as shown in the below image and create the Vector.
+    ```
+      {
+      "fields": [
+        {
+          "numDimensions": 1536,
+          "path": "text_embedding",
+          "similarity": "cosine",
+          "type": "vector"
+        }
+      ]
+    }
+    ```
   ![image](https://github.com/utsavMongoDB/MongoDB-RAG-NextJS/assets/114057324/ea1c8fa9-d391-40e6-b838-7a49fdf6bbd7)
 
 - You should start seeing a vector index getting created. You should get an email once index creation is completed.
