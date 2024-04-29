@@ -25,7 +25,7 @@ Populate the values of the ENV variables mentioned below
 
 ````
 OPENAI_API_KEY = "<YOUR_OPENAI_KEY>"              # API Key copied from the OpenAI portal
-MONGODB_URI = "<YOUR_MONGODB_URI>"                # Connection URI to MongoDB Instance
+MONGODB_URI = "<YOUR_MONGODB_URI>"                # Connection URI to MongoDB Instance (This should be automatically created after MongoDB Atlas integration)
 ````
 
 #### Step 3: Deploy
