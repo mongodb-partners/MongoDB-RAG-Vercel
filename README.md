@@ -53,7 +53,7 @@ Create a search index as below.
 
 - Next input the values as shown in the below image and create the Vector.
     ```
-      {
+    {
       "fields": [
         {
           "numDimensions": 1536,
