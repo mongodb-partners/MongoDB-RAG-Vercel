@@ -16,7 +16,7 @@ Before you begin, make sure you have the following ready:
 ## Steps to Deploy 
 Follow the below-mentioned steps to deploy the app on Vercel.
 
-#### Step 1: Click the below button to navigate to the Vercel deployment page
+#### Step 1: Click below to navigate to the deployment page
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fmongodb-partners%2FMongoDB-RAG-Vercel&env=OPENAI_API_KEY&demo-title=RAG%20with%20MongoDB%20Atlas%20and%20OpenAI&demo-url=https%3A%2F%2Fmonogodb-rag.vercel.app%2F&integration-ids=oac_jnzmjqM10gllKmSrG0SGrHOH)
 
 #### Step 2: Add Environment Variables
